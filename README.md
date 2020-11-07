@@ -7,3 +7,5 @@
 
 *Para vê-lo funcionando, basta baixar o conteúdo e acessar a página index.html em um navegador. O código fonte pode ser aberto em um editor de código de sua preferência.*
 
+![This is a fictitious blog.](https://github.com/luigilcsilva/3.TecBlog---Blog-Ficticio/blob/main/tecbloggif.gif)
+
