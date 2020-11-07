@@ -1,5 +1,5 @@
 # 3.TecBlog---Blog-Ficticio
-**This project is fictitious blog created with HTML and CSS.**
+**This project is a fictitious blog created with HTML and CSS.**
 
 **To see it working, just download the content and access the page index.html in any browser. The source code can be viewed in a source code editor of your preference.** 
 
