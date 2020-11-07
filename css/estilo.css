@@ -1,0 +1,138 @@
+/* ****** LIMPEZA DE FORMATAÇÕES PADRÕES ****** */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+
+
+/* ******LAYOUT****** */
+/*Cabeçalho*/
+#cabecalho {
+    background: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#cabecalho a:link, #cabecalho a:visited {
+    color: #FFF;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+#cabecalho a:hover {
+    color: #f7b600;
+    background: #FFF;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+#cabecalho-logo, #cabecalho-menu {
+    padding: 10px;
+}
+
+/*Principal*/
+#principal {
+    width: 920px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+#principal-postagens {
+    width: 660px;
+    float: left;
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.postagem-data {
+    font-size: 0.8em;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#principal-menu-lateral {
+    width: 240px;
+    float: right;
+}
+
+.conteudo-lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #CCC;
+}
+
+#principal-rodape {
+    background: #CCC;
+    padding: 15px;
+    text-align: center;
+    clear: both;
+}
+
+/* Destaque da página atual*/
+#paginaatual a:link, #paginaatual a:visited {
+    color: blue;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+#paginaatual a:hover {
+    color: #f7b600;
+    background: #FFF;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+
+/* ******FORMATAÇÕES GERAIS****** */
+/*Títulos*/
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #f7b600;
+}
+
+h3 {
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+}
+
+/*Links*/
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #f7b600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*Classes*/
+.branco {
+    color: white;
+}
+
